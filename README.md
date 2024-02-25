@@ -1,2 +1,2 @@
 # deep-learning
-Helpful deep learning code, building towards generative AI
+Python deep learning code, building towards generative AI
